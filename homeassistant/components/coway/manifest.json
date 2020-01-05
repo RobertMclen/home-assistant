@@ -1,0 +1,14 @@
+{
+  "domain": "coway",
+  "name": "Coway",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/coway",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@soffes"
+  ]
+}
